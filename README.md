@@ -9,4 +9,4 @@ statistique bayésienne, transport optimal.
 
 **Outils** : Python, PyTorch, scikit-learn, NumPy, pandas, R, Git
 
-📫 [e-mail] · [LinkedIn]
+📫 damien.roy@dauphine.eu · https://www.linkedin.com/in/roy-damien/
